@@ -11,7 +11,6 @@ I found many changes that needed to be made. A few of the changes I will list he
 4. Refactored many lines of CSS to be more efficient.
 
 Screenshot: 
-![Test Image 1]()
-
+![](Horiseon)
 
 Working Url: https://johnson90cm.github.io/Horiseon/
